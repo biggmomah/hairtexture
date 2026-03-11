@@ -1,0 +1,13 @@
+{
+  "name": "vite-autoopen",
+  "version": "1.0.0",
+  "description": "Start any Vite dev server and automatically open the result in the browser",
+  "bin": {
+    "vite-autoopen": "./bin/cli.js"
+  },
+  "keywords": ["vite", "dev", "browser", "open", "cli"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}
